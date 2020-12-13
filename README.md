@@ -14,4 +14,5 @@ Once we recieved our data we had to comb through it and remove some variables so
 * I tried removing some variables, adding a hidden layer, and including more neurons
 
 ## Summary
-Overall the neural network didn't preform as we had expected but it was a good learning experience. There were many things that could've been changed to achieve the results that we had required. In the end the best accuracy and loss was from the original model
+Overall the neural network didn't preform as we had expected but it was a good learning experience. There were many things that could've been changed to achieve the results that we had required. In the end the best accuracy and loss was from the original model. A better suited model can result in us achieving a higher accuracy and lower loss which would turn out to be a better prediciton.
+![Results](https://github.com/Mkhanali25/Neural_Network_Charity_Analysis/blob/main/Screen%20Shot%202020-12-13%20at%201.23.45%20PM.png)
